@@ -1,2 +1,2 @@
 # Tribal-Pattern
-I drew tribal patterns using python turtle
+I drew tribal patterns using python turtle.
